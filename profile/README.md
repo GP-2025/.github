@@ -31,16 +31,6 @@ The project leverages modern tools and technologies to achieve its objectives. S
 - **Tools**: Git, Docker, Jupyter Notebooks  
 - **Databases**: MySQL, MongoDB  
 - **Cloud Services**: AWS, Google Cloud Platform  
--->
-
-## How to Contribute
-We welcome contributions from the community! To contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeatureName`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeatureName`).
-5. Open a pull request.
 
 ## Project Structure
 A brief description of the project's structure is as follows:
@@ -52,3 +42,13 @@ A brief description of the project's structure is as follows:
 ├── notebooks/          # Jupyter notebooks for experimentation
 ├── docs/               # Documentation files
 └── README.md           # This file
+-->
+
+## How to Contribute
+We welcome contributions from the community! To contribute to the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeatureName`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/YourFeatureName`).
+5. Open a pull request.
